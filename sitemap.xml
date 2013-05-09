@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://Kyns.github.com/blog/hello-world.html</loc>
+        <loc>http://kyns.github.io/blog/hello-world.html</loc>
         <lastmod>2013-05-09T19:20:24+08:00</lastmod>
     </url>
     <url>
-        <loc>http://Kyns.github.com/blog/archives/</loc>
+        <loc>http://kyns.github.io/blog/archives/</loc>
         <lastmod>2013-05-09T19:20:24+08:00</lastmod>
     </url>
     <url>
-        <loc>http://Kyns.github.com/</loc>
+        <loc>http://kyns.github.io/</loc>
         <lastmod>2013-05-09T19:20:24+08:00</lastmod>
     </url>
     <url>
-        <loc>http://Kyns.github.com/404.html</loc>
+        <loc>http://kyns.github.io/404.html</loc>
         <lastmod>2013-05-09T19:20:24+08:00</lastmod>
     </url>
 </urlset>
